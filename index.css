@@ -2,6 +2,10 @@
     color: #97c93e !important;
 }
 
+header {
+    background-color: #343a40 !important;
+}
+
 header span{
     color: white;
 }
@@ -47,6 +51,15 @@ header img {
 .btn-platzi:hover {
     background-color: #82ad36;
     color: white;
+}
+
+#place-time {
+    background-color: #343a40 !important;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
 }
 
 #footer {
